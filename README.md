@@ -17,7 +17,7 @@ Bracket for four carling switches and a LED dimmer. Separated in two parts for p
 
 # Caddy Gas Sensor Bracket
 
-Bracket for a 3GAS Gas Sensor.
+Bracket for a 3GAS Gas Sensor to mount on 30x30 profiles.
 
 <img src="Caddy.Gassensor/Sensorhalter.png" width="25%" height="25%">
 
