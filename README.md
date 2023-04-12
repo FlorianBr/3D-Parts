@@ -1,21 +1,28 @@
+
+# 3D printing stuff
+
+## Mainsail
+
+Recently I replaced my Octoprint/Marlin-FW combination with Mainsail/Klipper. In the Mainsail folder I collect all the settings, macros etc for my setup. But a warning: My good old Anycubic i3 is modified, so a lot of settings may not work on other machines out of the box. My mods (incomplete list) are: BL Touch for mesh bed leveling, Trinamic stepper drivers, better fans and lots of small stuff I forgot about.
+
 # 3D-Parts
 
 A collection of 3D printed parts I designed. The parts are either designed with OpenSCAD (the .scad files) or FreeCAD (the .FCStd files) but I usually also commit the exported STLs.
 
-# Caddy Buttonholder
+## Caddy Buttonholder
 
 Bracket for a push button and two 12V sockets, used in my camper
 
 <img src="Caddy.Buttonholder/tasterhalter.png" width="25%" height="25%">
 
-# Caddy Switchboard
+## Caddy Switchboard
 
 Bracket for four carling switches and a LED dimmer. Separated in two parts for printing
 
 <img src="Caddy.Switchboard/Schalterpanel_v3_U.png" width="25%" height="25%">
 <img src="Caddy.Switchboard/Schalterpanel_v3_D.png" width="25%" height="25%">
 
-# Caddy Gas Sensor Bracket
+## Caddy Gas Sensor Bracket
 
 Bracket for a 3GAS Gas Sensor to mount on 30x30 profiles.
 
@@ -42,6 +49,10 @@ A small assistance (In german "Bohrhilfe") for drilling holes into 30mm aluminum
 ## 30x30 Profile Hinge Fix
 
 Fixation for 30x30 aluminum profile hinges. The hinges I've got cannot really handle a lot, so I designed these thingys to fix the profiles in position.
+
+<img src="Profile30x30.HingeFixation/Halter_Variant_1.png" width="25%" height="25%">
+<img src="Profile30x30.HingeFixation/Halter_Variant_2.png" width="25%" height="25%">
+
 
 ## 30x30 Profile Lock
 
