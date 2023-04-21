@@ -9,6 +9,12 @@ Recently I replaced my Octoprint/Marlin-FW combination with Mainsail/Klipper. In
 
 A collection of 3D printed parts I designed. The parts are either designed with OpenSCAD (the .scad files) or FreeCAD (the .FCStd files) but I usually also commit the exported STLs.
 
+## Ballista
+
+Parts to improve Zach307s awesome [Desktop Ballista](https://www.thingiverse.com/thing:3498574). Also available on [Thingiverse](https://www.thingiverse.com/thing:5982863)
+
+<img src="Ballista/Ballista1.jpg" width="25%" height="25%">
+
 ## Caddy Buttonholder
 
 Bracket for a push button and two 12V sockets, used in my camper
