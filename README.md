@@ -34,6 +34,13 @@ Bracket for a 3GAS Gas Sensor to mount on 30x30 profiles.
 
 <img src="Caddy.Gassensor/Sensorhalter.png" width="25%" height="25%">
 
+## Edding Clip
+
+Clip for Edding Pens
+
+<img src="EddingClip/Ring.jpg" width="25%" height="25%">
+<img src="EddingClip/Pin_v2.jpg" width="25%" height="25%">
+
 ## Mansions of Madness: Inlays
 
 Boxes for Mansions of Madness (Villen des Wahnsinns) for all the Tokens, Cards etc.
@@ -59,14 +66,13 @@ Fixation for 30x30 aluminum profile hinges. The hinges I've got cannot really ha
 <img src="Profile30x30.HingeFixation/Halter_Variant_1.png" width="25%" height="25%">
 <img src="Profile30x30.HingeFixation/Halter_Variant_2.png" width="25%" height="25%">
 
-
 ## 30x30 Profile Lock
 
 A lock I designed for the rack in my Volkswagen Caddy. Designed for Item 30x30 aluminum profiles but will probably work with others too.
 
 <img src="Profile30x30.Lock/parts2.jpg" width="25%" height="25%">
 
-##  Wurkos TS21 Clip
+## Wurkos TS21 Clip
 
 A wall-mounted clip for a Wurkos TS21 LED flashlight. I screwed it to a 30x30 profile, but its not limited to these profiles
 
