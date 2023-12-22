@@ -41,6 +41,12 @@ Clip for Edding Pens
 <img src="EddingClip/Ring.jpg" width="25%" height="25%">
 <img src="EddingClip/Pin_v2.jpg" width="25%" height="25%">
 
+## Figure Tube
+
+Top and bottom parts to build a display case for collectors figures. Designed for "Plexiglas XT" tubes with a outer diameter of 120mm and 3mm thickness. The Top (currently WIP) supports LEDs.
+
+<img src="FigureTube/bottom.jpg" width="25%" height="25%">
+
 ## Mansions of Madness: Inlays
 
 Boxes for Mansions of Madness (Villen des Wahnsinns) for all the Tokens, Cards etc.
