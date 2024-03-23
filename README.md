@@ -3,7 +3,13 @@
 
 ## Mainsail
 
+[!WARNING] I replaced that printer, so all this may be outdated
+
 Recently I replaced my Octoprint/Marlin-FW combination with Mainsail/Klipper. In the Mainsail folder I collect all the settings, macros etc for my setup. But a warning: My good old Anycubic i3 is modified, so a lot of settings may not work on other machines out of the box. My mods (incomplete list) are: BL Touch for mesh bed leveling, Trinamic stepper drivers, better fans and lots of small stuff I forgot about.
+
+## Klipper
+
+Stuff for my Neptune 4 Pro
 
 # 3D-Parts
 
