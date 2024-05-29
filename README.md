@@ -53,6 +53,12 @@ Top and bottom parts to build a display case for collectors figures. Designed fo
 
 <img src="FigureTube/bottom.jpg" width="25%" height="25%">
 
+## Loetstaender
+
+A soldering iron stand (german: "Lötständer") for a USB soldering iron and its tips.
+
+<img src="Loetstaender/holder.jpg" width="25%" height="25%">
+
 ## Mansions of Madness: Inlays
 
 Boxes for Mansions of Madness (Villen des Wahnsinns) for all the Tokens, Cards etc.
