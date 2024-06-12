@@ -59,6 +59,12 @@ A soldering iron stand (german: "Lötständer") for a USB soldering iron and its
 
 <img src="Loetstaender/holder.jpg" width="25%" height="25%">
 
+## MHP30 Distance Holder
+
+For the Miniware MHP30 Heatplate: A little holder/spacer for keeping the PCBs straight.
+
+<img src="MHP30.Holder//holder.jpg" width="25%" height="25%">
+
 ## Mansions of Madness: Inlays
 
 Boxes for Mansions of Madness (Villen des Wahnsinns) for all the Tokens, Cards etc.
