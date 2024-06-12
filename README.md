@@ -59,6 +59,12 @@ A soldering iron stand (german: "Lötständer") for a USB soldering iron and its
 
 <img src="Loetstaender/holder.jpg" width="25%" height="25%">
 
+## LilyGo LoRa v1.3 Case
+
+A simple case for LilyGos LoRa v1.3 module. No cover yet
+
+<img src="LoRa.V13_Case/case.jpg" width="25%" height="25%">
+
 ## MHP30 Distance Holder
 
 For the Miniware MHP30 Heatplate: A little holder/spacer for keeping the PCBs straight.
