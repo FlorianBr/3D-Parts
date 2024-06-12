@@ -59,6 +59,12 @@ A soldering iron stand (german: "Lötständer") for a USB soldering iron and its
 
 <img src="Loetstaender/holder.jpg" width="25%" height="25%">
 
+## Heltec LoRa Display antenna holder
+
+A holder heltecs LoRa display antenna
+
+<img src="LoRa.HeltecAntenna/heltec.jpg" width="25%" height="25%">
+
 ## LilyGo LoRa v1.3 Case
 
 A simple case for LilyGos LoRa v1.3 module. No cover yet
