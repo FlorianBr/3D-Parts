@@ -53,6 +53,13 @@ Top and bottom parts to build a display case for collectors figures. Designed fo
 
 <img src="FigureTube/bottom.jpg" width="25%" height="25%">
 
+## Helinox Cupholder
+
+A cupholder designed for the Helinox chair two. Maybe works with other chairs too
+
+<img src="Helinox.Cupholder/holder.jpg" width="25%" height="25%">
+<img src="Helinox.Cupholder/ring.jpg" width="25%" height="25%">
+
 ## Loetstaender
 
 A soldering iron stand (german: "Lötständer") for a USB soldering iron and its tips.
