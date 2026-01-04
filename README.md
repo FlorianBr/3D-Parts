@@ -51,7 +51,21 @@ Clip for Edding Pens
 
 Top and bottom parts to build a display case for collectors figures. Designed for "Plexiglas XT" tubes with a outer diameter of 120mm and 3mm thickness. The Top (currently WIP) supports LEDs.
 
-<img src="FigureTube/bottom.jpg" width="25%" height="25%">
+<img src="FigureTube/bottom.png" width="25%" height="25%">
+
+## Gridfinity: Boxes for Tools
+
+A few different 2x4 gridfinity boxes for brushes, sculpting tools and similar stuff.
+
+<img src="Gridfinity.Boxes/Gridfinity_2x4x3_Box.jpg" width="25%" height="25%">
+<img src="Gridfinity.Boxes/Gridfinity_2x4x3_Brush.jpg" width="25%" height="25%">
+<img src="Gridfinity.Boxes/Gridfinity_2x4x3_Sculpting.jpg" width="25%" height="25%">
+
+## Gridfinity: DSPIAE Sanding Pad Stand
+
+A 2x2 stand for DSPIAEs  acrylic sanding pads.
+
+<img src="Gridfinity.DSPIAE.SandingPad/sanding_holder.jpg" width="25%" height="25%">
 
 ## Helinox Cupholder
 
