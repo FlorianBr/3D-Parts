@@ -55,11 +55,12 @@ Top and bottom parts to build a display case for collectors figures. Designed fo
 
 ## Gridfinity: Boxes for Tools
 
-A few different 2x4 gridfinity boxes for brushes, sculpting tools and similar stuff.
+A few different gridfinity boxes for brushes, sculpting tools and similar stuff. All of them with a bit thicker walls than usual.
 
 <img src="Gridfinity.Boxes/Gridfinity_2x4x3_Box.jpg" width="25%" height="25%">
 <img src="Gridfinity.Boxes/Gridfinity_2x4x3_Brush.jpg" width="25%" height="25%">
 <img src="Gridfinity.Boxes/Gridfinity_2x4x3_Sculpting.jpg" width="25%" height="25%">
+<img src="Gridfinity.Boxes/boxes.jpg" width="25%" height="25%">
 
 ## Gridfinity: DSPIAE Sanding Pad Stand
 
